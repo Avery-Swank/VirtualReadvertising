@@ -68,6 +68,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cd781b7526fef94f8b19696734de0f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  photoButton: 1
 --- !u!114 &114906610627894560
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -106,19 +107,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 114291709950583384}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 114293116628512800, guid: 472d40f171395574e80e76f7c64f5a9d,
-          type: 2}
-        m_MethodName: EnablePicture
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 224215852270248422}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Transform, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!222 &222755144477987110

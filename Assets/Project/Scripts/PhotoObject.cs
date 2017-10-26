@@ -34,9 +34,9 @@ public class PhotoObject : MonoBehaviour {
         // Setting coordinates for New York City
         //SetPOILocation(40.7128, -74.0059, 100);
         // Setting coordinates for Prior Lake Home
-        SetPOILocation(44.705821, -93.453626, 100);
+        //SetPOILocation(44.705821, -93.453626, 100);
         // Setting coordinates for San Francisco
-        //SetPOILocation(37.7749, -122.4194, 100);
+        SetPOILocation(37.7749, -122.4194, 100);
     }
 
     void Update()

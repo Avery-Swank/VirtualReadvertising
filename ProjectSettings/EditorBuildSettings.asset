@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/Main.unity
+    guid: e7a2fdd9d6245444d86dfc936efdd6d7
+  - enabled: 0
+    path: 
+    guid: 0706544efa6b663408ddbe0bcebe6b53
+  - enabled: 1
+    path: Assets/Project/360Viewing.unity
+    guid: 2d27cc42936b847458e7f471880173a6
