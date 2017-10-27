@@ -1,1 +1,3 @@
 # VirtualReadvertising
+
+Virtual Readvertising is a PC application designed to mix the viewing capabilities of 360 degree photos and videos. In a world of growing virtaul reality content, there needs to be content for these new technological devices. The idea is to merge 360 degree photos and videos into a bitmap of points of interest, being able to click on a point in a building a seeing a virtual tour of that space whether it is an office space or attraction. Virtual Readvertising is a potential application to advertise companies that want to offer 360 degree video tours and 360 degree photo interest spots.
